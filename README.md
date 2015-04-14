@@ -1,6 +1,6 @@
 
 ##Instalacion git
-
+Windows:  http://msysgit.github.io/
 Debian/Ubuntu
 
     apt-get install git
@@ -33,9 +33,6 @@ Solaris 11 Express
 OpenBSD
 
     pkg_add git
-
-Win:  http://msysgit.github.io/
-
 
 ##Como usar git (clone, add, commit, push, checkout)
 
