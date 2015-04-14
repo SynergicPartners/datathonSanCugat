@@ -1,5 +1,5 @@
 
-Instalacion git
+##Instalacion git
 
 Debian/Ubuntu
 
@@ -37,7 +37,7 @@ OpenBSD
 Win:  http://msysgit.github.io/
 
 
-Como usar git (clone, add, commit, push, checkout)
+##Como usar git (clone, add, commit, push, checkout)
 
 Clonar al directorio actual y entrar en la carpeta
 
