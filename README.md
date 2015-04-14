@@ -1,9 +1,7 @@
 
 ##Instalacion git
 
-Windows
-
-    http://msysgit.github.io/
+Windows: http://msysgit.github.io/
 
 Debian/Ubuntu
 
