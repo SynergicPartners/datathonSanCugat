@@ -43,7 +43,6 @@ Clonar al directorio actual y entrar en la carpeta
 
     git clone https://github.com/SynergicPartners/hackatonsyn.git
     cd datatonSanCugat
-
 Añadir uno a todos los ficheros nuevos generados en local
 
     git add <filename>
@@ -63,12 +62,12 @@ Crea una nueva rama llamada "rama1" y trabajar en ella
 
 ##Herramientas para desarrollar
 
-| Herrmienta |	Descripcion | Descarga	| Tutorial |
+| Herramienta |	Descripción | Descarga	| Tutorial |
 |------------|--------------|-----------|----------|
 | Android Studio | Entorno de desarrollo para APP Android |	http://bit.ly/1IZie9q |	http://bit.ly/1HmYsX8 |
 | Eclipse |	Entorno de desarrollo |	http://bit.ly/18ub3Xx |	http://bit.ly/1H2vqM7 |
 | ADT |	Plugin para crear desarrollos APP Android en Eclipse | http://bit.ly/1kakf76 |	
-| R	| Herramienta estdística por consola | http://bit.ly/1aZ5k0T |
+| R	| Herramienta estadística por consola | http://bit.ly/1aZ5k0T |
 | Rstudio |	Herramienta estdística con interfaz de desarrollo |	http://bit.ly/1iywQo6 |	http://bit.ly/1aNcp3J |
 | Netbeans | Entorno de desarrollo | http://bit.ly/1daNBmX | http://bit.ly/1DDhxTe |
 | JqueryMobile | Entorno de desarrollo APP Mobile Multiplataforma |	http://bit.ly/1H2vlYL |	http://bit.ly/1yq94mt |
